@@ -1,3 +1,9 @@
+body {
+    background-image: url("https://richmondmagazine.com/downloads/29305/download/leopard-print_getty.jpg?cb=194d06d26ac0367e30575ec65388cf72");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 header {
     background-color: black;
     border: 5px solid greenyellow;
@@ -17,5 +23,23 @@ header {
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 15rem;
     margin-right: 15rem;
+    margin-top: 2rem;
     text-align: center;
+}
+
+.myRide {
+    border-radius: 25px;
+    width: 40%;
+}
+
+h3 {
+    background-color: indigo;
+    border: hotpink;
+    border-radius: 10px;
+    color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
